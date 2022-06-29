@@ -1,1 +1,1 @@
-This is a simple bank database created by me for educational purpose.
+This is Mysql code for a sample bank database.
